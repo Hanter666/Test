@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2020-11-25 11:18">
+<yml_catalog date="2020-11-25 11:35">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
 		</currencies>
 		<categories>
-			<category id="[object Object]">Apple iPhone</category>
-			<category id="[object Object]">Apple AirPods</category>
-			<category id="[object Object]">Apple iPad</category>
-			<category id="[object Object]">Apple Watch</category>
-			<category id="[object Object]">Apple MacBook</category>
-			<category id="[object Object]">Apple iMac</category>
-			<category id="[object Object]">Apple Mac Pro</category>
-			<category id="[object Object]">Apple Mac mini</category>
-			<category id="[object Object]">Apple Аксессуары</category>
+			<category id="1">Apple iPhone</category>
+			<category id="2">Apple AirPods</category>
+			<category id="3">Apple iPad</category>
+			<category id="4">Apple Watch</category>
+			<category id="5">Apple MacBook</category>
+			<category id="6">Apple iMac</category>
+			<category id="7">Apple Mac Pro</category>
+			<category id="8">Apple Mac mini</category>
+			<category id="9">Apple Аксессуары</category>
 		</categories>
 		<offers>
 			<offer id="0001" available="true">
-				<name>12</name>
-				<price>0001</price>
-				<oldprice>0001</oldprice>
-				<currencyId>0001</currencyId>
-				<categoryId>0001</categoryId>
-				<picture>0001</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 12 PRO MAX 512GB</name>
+				<price>127990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -50,15 +51,16 @@
 				<param name="Артикул">0001</param>
 			</offer>
 			<offer id="0011" available="true">
-				<name>12</name>
-				<price>0011</price>
-				<oldprice>0011</oldprice>
-				<currencyId>0011</currencyId>
-				<categoryId>0011</categoryId>
-				<picture>0011</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 12 PRO MAX 512GB</name>
+				<price>127990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -83,15 +85,16 @@
 				<param name="Артикул">0011</param>
 			</offer>
 			<offer id="0021" available="true">
-				<name>12</name>
-				<price>0021</price>
-				<oldprice>0021</oldprice>
-				<currencyId>0021</currencyId>
-				<categoryId>0021</categoryId>
-				<picture>0021</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 12 PRO MAX 512GB</name>
+				<price>127990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -116,15 +119,16 @@
 				<param name="Артикул">0021</param>
 			</offer>
 			<offer id="0031" available="true">
-				<name>12</name>
-				<price>0031</price>
-				<oldprice>0031</oldprice>
-				<currencyId>0031</currencyId>
-				<categoryId>0031</categoryId>
-				<picture>0031</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 12 PRO MAX 512GB</name>
+				<price>127990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -149,15 +153,16 @@
 				<param name="Артикул">0031</param>
 			</offer>
 			<offer id="0041" available="true">
-				<name>12</name>
-				<price>0041</price>
-				<oldprice>0041</oldprice>
-				<currencyId>0041</currencyId>
-				<categoryId>0041</categoryId>
-				<picture>0041</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 PRO MAX 256GB</name>
+				<price>110990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -182,15 +187,16 @@
 				<param name="Артикул">0041</param>
 			</offer>
 			<offer id="0051" available="true">
-				<name>12</name>
-				<price>0051</price>
-				<oldprice>0051</oldprice>
-				<currencyId>0051</currencyId>
-				<categoryId>0051</categoryId>
-				<picture>0051</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 PRO MAX 256GB</name>
+				<price>110990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -215,15 +221,16 @@
 				<param name="Артикул">0051</param>
 			</offer>
 			<offer id="0061" available="true">
-				<name>12</name>
-				<price>0061</price>
-				<oldprice>0061</oldprice>
-				<currencyId>0061</currencyId>
-				<categoryId>0061</categoryId>
-				<picture>0061</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 PRO MAX 256GB</name>
+				<price>111490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -248,15 +255,16 @@
 				<param name="Артикул">0061</param>
 			</offer>
 			<offer id="0071" available="true">
-				<name>12</name>
-				<price>0071</price>
-				<oldprice>0071</oldprice>
-				<currencyId>0071</currencyId>
-				<categoryId>0071</categoryId>
-				<picture>0071</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 PRO MAX 256GB</name>
+				<price>110490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -281,15 +289,16 @@
 				<param name="Артикул">0071</param>
 			</offer>
 			<offer id="0081" available="true">
-				<name>12</name>
-				<price>0081</price>
-				<oldprice>0081</oldprice>
-				<currencyId>0081</currencyId>
-				<categoryId>0081</categoryId>
-				<picture>0081</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 PRO MAX 128GB</name>
+				<price>99490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -314,15 +323,16 @@
 				<param name="Артикул">0081</param>
 			</offer>
 			<offer id="0091" available="true">
-				<name>12</name>
-				<price>0091</price>
-				<oldprice>0091</oldprice>
-				<currencyId>0091</currencyId>
-				<categoryId>0091</categoryId>
-				<picture>0091</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 PRO MAX 128GB</name>
+				<price>99490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -347,15 +357,16 @@
 				<param name="Артикул">0091</param>
 			</offer>
 			<offer id="0101" available="true">
-				<name>12</name>
-				<price>0101</price>
-				<oldprice>0101</oldprice>
-				<currencyId>0101</currencyId>
-				<categoryId>0101</categoryId>
-				<picture>0101</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 PRO MAX 128GB</name>
+				<price>100990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -380,15 +391,16 @@
 				<param name="Артикул">0101</param>
 			</offer>
 			<offer id="0111" available="true">
-				<name>12</name>
-				<price>0111</price>
-				<oldprice>0111</oldprice>
-				<currencyId>0111</currencyId>
-				<categoryId>0111</categoryId>
-				<picture>0111</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 PRO MAX 128GB</name>
+				<price>99490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -413,15 +425,16 @@
 				<param name="Артикул">0111</param>
 			</offer>
 			<offer id="0121" available="true">
-				<name>12</name>
-				<price>0121</price>
-				<oldprice>0121</oldprice>
-				<currencyId>0121</currencyId>
-				<categoryId>0121</categoryId>
-				<picture>0121</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 12 PRO 512GB</name>
+				<price>118990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -446,15 +459,16 @@
 				<param name="Артикул">0121</param>
 			</offer>
 			<offer id="0131" available="true">
-				<name>12</name>
-				<price>0131</price>
-				<oldprice>0131</oldprice>
-				<currencyId>0131</currencyId>
-				<categoryId>0131</categoryId>
-				<picture>0131</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 12 PRO 512GB</name>
+				<price>118990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -479,15 +493,16 @@
 				<param name="Артикул">0131</param>
 			</offer>
 			<offer id="0141" available="true">
-				<name>12</name>
-				<price>0141</price>
-				<oldprice>0141</oldprice>
-				<currencyId>0141</currencyId>
-				<categoryId>0141</categoryId>
-				<picture>0141</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 12 PRO 512GB</name>
+				<price>119990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -512,15 +527,16 @@
 				<param name="Артикул">0141</param>
 			</offer>
 			<offer id="0151" available="true">
-				<name>12</name>
-				<price>0151</price>
-				<oldprice>0151</oldprice>
-				<currencyId>0151</currencyId>
-				<categoryId>0151</categoryId>
-				<picture>0151</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 12 PRO 512GB</name>
+				<price>117990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -545,15 +561,16 @@
 				<param name="Артикул">0151</param>
 			</offer>
 			<offer id="0161" available="true">
-				<name>12</name>
-				<price>0161</price>
-				<oldprice>0161</oldprice>
-				<currencyId>0161</currencyId>
-				<categoryId>0161</categoryId>
-				<picture>0161</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 PRO 256GB</name>
+				<price>111490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -578,15 +595,16 @@
 				<param name="Артикул">0161</param>
 			</offer>
 			<offer id="0171" available="true">
-				<name>12</name>
-				<price>0171</price>
-				<oldprice>0171</oldprice>
-				<currencyId>0171</currencyId>
-				<categoryId>0171</categoryId>
-				<picture>0171</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 PRO 256GB</name>
+				<price>111490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -611,15 +629,16 @@
 				<param name="Артикул">0171</param>
 			</offer>
 			<offer id="0181" available="true">
-				<name>12</name>
-				<price>0181</price>
-				<oldprice>0181</oldprice>
-				<currencyId>0181</currencyId>
-				<categoryId>0181</categoryId>
-				<picture>0181</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 PRO 256GB</name>
+				<price>111490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -644,15 +663,16 @@
 				<param name="Артикул">0181</param>
 			</offer>
 			<offer id="0191" available="true">
-				<name>12</name>
-				<price>0191</price>
-				<oldprice>0191</oldprice>
-				<currencyId>0191</currencyId>
-				<categoryId>0191</categoryId>
-				<picture>0191</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 PRO 256GB</name>
+				<price>110490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -677,15 +697,16 @@
 				<param name="Артикул">0191</param>
 			</offer>
 			<offer id="0201" available="true">
-				<name>12</name>
-				<price>0201</price>
-				<oldprice>0201</oldprice>
-				<currencyId>0201</currencyId>
-				<categoryId>0201</categoryId>
-				<picture>0201</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 PRO 128GB</name>
+				<price>99490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -710,15 +731,16 @@
 				<param name="Артикул">0201</param>
 			</offer>
 			<offer id="0211" available="true">
-				<name>12</name>
-				<price>0211</price>
-				<oldprice>0211</oldprice>
-				<currencyId>0211</currencyId>
-				<categoryId>0211</categoryId>
-				<picture>0211</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 PRO 128GB</name>
+				<price>99490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -743,15 +765,16 @@
 				<param name="Артикул">0211</param>
 			</offer>
 			<offer id="0221" available="true">
-				<name>12</name>
-				<price>0221</price>
-				<oldprice>0221</oldprice>
-				<currencyId>0221</currencyId>
-				<categoryId>0221</categoryId>
-				<picture>0221</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 PRO 128GB</name>
+				<price>98990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -776,15 +799,16 @@
 				<param name="Артикул">0221</param>
 			</offer>
 			<offer id="0231" available="true">
-				<name>12</name>
-				<price>0231</price>
-				<oldprice>0231</oldprice>
-				<currencyId>0231</currencyId>
-				<categoryId>0231</categoryId>
-				<picture>0231</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 PRO 128GB</name>
+				<price>98490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -809,15 +833,16 @@
 				<param name="Артикул">0231</param>
 			</offer>
 			<offer id="0241" available="true">
-				<name>12</name>
-				<price>0241</price>
-				<oldprice>0241</oldprice>
-				<currencyId>0241</currencyId>
-				<categoryId>0241</categoryId>
-				<picture>0241</picture>
-				<description><![CDATA[<h3>iPhone 12 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 256GB</name>
+				<price>83490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -842,15 +867,16 @@
 				<param name="Артикул">0241</param>
 			</offer>
 			<offer id="0251" available="true">
-				<name>12</name>
-				<price>0251</price>
-				<oldprice>0251</oldprice>
-				<currencyId>0251</currencyId>
-				<categoryId>0251</categoryId>
-				<picture>0251</picture>
-				<description><![CDATA[<h3>iPhone 12 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 256GB</name>
+				<price>83490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -875,15 +901,16 @@
 				<param name="Артикул">0251</param>
 			</offer>
 			<offer id="0261" available="true">
-				<name>12</name>
-				<price>0261</price>
-				<oldprice>0261</oldprice>
-				<currencyId>0261</currencyId>
-				<categoryId>0261</categoryId>
-				<picture>0261</picture>
-				<description><![CDATA[<h3>iPhone 12 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 256GB</name>
+				<price>83490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -908,15 +935,16 @@
 				<param name="Артикул">0261</param>
 			</offer>
 			<offer id="0271" available="true">
-				<name>12</name>
-				<price>0271</price>
-				<oldprice>0271</oldprice>
-				<currencyId>0271</currencyId>
-				<categoryId>0271</categoryId>
-				<picture>0271</picture>
-				<description><![CDATA[<h3>iPhone 12 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 256GB</name>
+				<price>83490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -941,15 +969,16 @@
 				<param name="Артикул">0271</param>
 			</offer>
 			<offer id="0281" available="true">
-				<name>12</name>
-				<price>0281</price>
-				<oldprice>0281</oldprice>
-				<currencyId>0281</currencyId>
-				<categoryId>0281</categoryId>
-				<picture>0281</picture>
-				<description><![CDATA[<h3>iPhone 12 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 256GB</name>
+				<price>83490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -974,15 +1003,16 @@
 				<param name="Артикул">0281</param>
 			</offer>
 			<offer id="0291" available="true">
-				<name>12</name>
-				<price>0291</price>
-				<oldprice>0291</oldprice>
-				<currencyId>0291</currencyId>
-				<categoryId>0291</categoryId>
-				<picture>0291</picture>
-				<description><![CDATA[<h3>iPhone 12 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 128GB</name>
+				<price>73490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1007,15 +1037,16 @@
 				<param name="Артикул">0291</param>
 			</offer>
 			<offer id="0301" available="true">
-				<name>12</name>
-				<price>0301</price>
-				<oldprice>0301</oldprice>
-				<currencyId>0301</currencyId>
-				<categoryId>0301</categoryId>
-				<picture>0301</picture>
-				<description><![CDATA[<h3>iPhone 12 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 128GB</name>
+				<price>73490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1040,15 +1071,16 @@
 				<param name="Артикул">0301</param>
 			</offer>
 			<offer id="0311" available="true">
-				<name>12</name>
-				<price>0311</price>
-				<oldprice>0311</oldprice>
-				<currencyId>0311</currencyId>
-				<categoryId>0311</categoryId>
-				<picture>0311</picture>
-				<description><![CDATA[<h3>iPhone 12 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 128GB</name>
+				<price>72990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1073,15 +1105,16 @@
 				<param name="Артикул">0311</param>
 			</offer>
 			<offer id="0321" available="true">
-				<name>12</name>
-				<price>0321</price>
-				<oldprice>0321</oldprice>
-				<currencyId>0321</currencyId>
-				<categoryId>0321</categoryId>
-				<picture>0321</picture>
-				<description><![CDATA[<h3>iPhone 12 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 128GB</name>
+				<price>73490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1106,15 +1139,16 @@
 				<param name="Артикул">0321</param>
 			</offer>
 			<offer id="0331" available="true">
-				<name>12</name>
-				<price>0331</price>
-				<oldprice>0331</oldprice>
-				<currencyId>0331</currencyId>
-				<categoryId>0331</categoryId>
-				<picture>0331</picture>
-				<description><![CDATA[<h3>iPhone 12 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 128GB</name>
+				<price>73490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1139,15 +1173,16 @@
 				<param name="Артикул">0331</param>
 			</offer>
 			<offer id="0341" available="true">
-				<name>12</name>
-				<price>0341</price>
-				<oldprice>0341</oldprice>
-				<currencyId>0341</currencyId>
-				<categoryId>0341</categoryId>
-				<picture>0341</picture>
-				<description><![CDATA[<h3>iPhone 12 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 64GB</name>
+				<price>67990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1172,15 +1207,16 @@
 				<param name="Артикул">0341</param>
 			</offer>
 			<offer id="0351" available="true">
-				<name>12</name>
-				<price>0351</price>
-				<oldprice>0351</oldprice>
-				<currencyId>0351</currencyId>
-				<categoryId>0351</categoryId>
-				<picture>0351</picture>
-				<description><![CDATA[<h3>iPhone 12 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 64GB</name>
+				<price>67990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1205,15 +1241,16 @@
 				<param name="Артикул">0351</param>
 			</offer>
 			<offer id="0361" available="true">
-				<name>12</name>
-				<price>0361</price>
-				<oldprice>0361</oldprice>
-				<currencyId>0361</currencyId>
-				<categoryId>0361</categoryId>
-				<picture>0361</picture>
-				<description><![CDATA[<h3>iPhone 12 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 64GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1238,15 +1275,16 @@
 				<param name="Артикул">0361</param>
 			</offer>
 			<offer id="0371" available="true">
-				<name>12</name>
-				<price>0371</price>
-				<oldprice>0371</oldprice>
-				<currencyId>0371</currencyId>
-				<categoryId>0371</categoryId>
-				<picture>0371</picture>
-				<description><![CDATA[<h3>iPhone 12 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 64GB</name>
+				<price>67990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1271,15 +1309,16 @@
 				<param name="Артикул">0371</param>
 			</offer>
 			<offer id="0381" available="true">
-				<name>12</name>
-				<price>0381</price>
-				<oldprice>0381</oldprice>
-				<currencyId>0381</currencyId>
-				<categoryId>0381</categoryId>
-				<picture>0381</picture>
-				<description><![CDATA[<h3>iPhone 12 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 64GB</name>
+				<price>67990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1304,15 +1343,16 @@
 				<param name="Артикул">0381</param>
 			</offer>
 			<offer id="0391" available="true">
-				<name>12</name>
-				<price>0391</price>
-				<oldprice>0391</oldprice>
-				<currencyId>0391</currencyId>
-				<categoryId>0391</categoryId>
-				<picture>0391</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 mini 256GB</name>
+				<price>75990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1337,15 +1377,16 @@
 				<param name="Артикул">0391</param>
 			</offer>
 			<offer id="0401" available="true">
-				<name>12</name>
-				<price>0401</price>
-				<oldprice>0401</oldprice>
-				<currencyId>0401</currencyId>
-				<categoryId>0401</categoryId>
-				<picture>0401</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 mini 256GB</name>
+				<price>75990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1370,15 +1411,16 @@
 				<param name="Артикул">0401</param>
 			</offer>
 			<offer id="0411" available="true">
-				<name>12</name>
-				<price>0411</price>
-				<oldprice>0411</oldprice>
-				<currencyId>0411</currencyId>
-				<categoryId>0411</categoryId>
-				<picture>0411</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 mini 256GB</name>
+				<price>75490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1403,15 +1445,16 @@
 				<param name="Артикул">0411</param>
 			</offer>
 			<offer id="0421" available="true">
-				<name>12</name>
-				<price>0421</price>
-				<oldprice>0421</oldprice>
-				<currencyId>0421</currencyId>
-				<categoryId>0421</categoryId>
-				<picture>0421</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 mini 256GB</name>
+				<price>75990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1436,15 +1479,16 @@
 				<param name="Артикул">0421</param>
 			</offer>
 			<offer id="0431" available="true">
-				<name>12</name>
-				<price>0431</price>
-				<oldprice>0431</oldprice>
-				<currencyId>0431</currencyId>
-				<categoryId>0431</categoryId>
-				<picture>0431</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 12 mini 256GB</name>
+				<price>75990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1469,15 +1513,16 @@
 				<param name="Артикул">0431</param>
 			</offer>
 			<offer id="0441" available="true">
-				<name>12</name>
-				<price>0441</price>
-				<oldprice>0441</oldprice>
-				<currencyId>0441</currencyId>
-				<categoryId>0441</categoryId>
-				<picture>0441</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 mini 128GB</name>
+				<price>64990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1502,15 +1547,16 @@
 				<param name="Артикул">0441</param>
 			</offer>
 			<offer id="0451" available="true">
-				<name>12</name>
-				<price>0451</price>
-				<oldprice>0451</oldprice>
-				<currencyId>0451</currencyId>
-				<categoryId>0451</categoryId>
-				<picture>0451</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 mini 128GB</name>
+				<price>64990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1535,15 +1581,16 @@
 				<param name="Артикул">0451</param>
 			</offer>
 			<offer id="0461" available="true">
-				<name>12</name>
-				<price>0461</price>
-				<oldprice>0461</oldprice>
-				<currencyId>0461</currencyId>
-				<categoryId>0461</categoryId>
-				<picture>0461</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 mini 128GB</name>
+				<price>64990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1568,15 +1615,16 @@
 				<param name="Артикул">0461</param>
 			</offer>
 			<offer id="0471" available="true">
-				<name>12</name>
-				<price>0471</price>
-				<oldprice>0471</oldprice>
-				<currencyId>0471</currencyId>
-				<categoryId>0471</categoryId>
-				<picture>0471</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 mini 128GB</name>
+				<price>64990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1601,15 +1649,16 @@
 				<param name="Артикул">0471</param>
 			</offer>
 			<offer id="0481" available="true">
-				<name>12</name>
-				<price>0481</price>
-				<oldprice>0481</oldprice>
-				<currencyId>0481</currencyId>
-				<categoryId>0481</categoryId>
-				<picture>0481</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 12 mini 128GB</name>
+				<price>64990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1634,15 +1683,16 @@
 				<param name="Артикул">0481</param>
 			</offer>
 			<offer id="0491" available="true">
-				<name>12</name>
-				<price>0491</price>
-				<oldprice>0491</oldprice>
-				<currencyId>0491</currencyId>
-				<categoryId>0491</categoryId>
-				<picture>0491</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 mini 64GB</name>
+				<price>60990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1667,15 +1717,16 @@
 				<param name="Артикул">0491</param>
 			</offer>
 			<offer id="0501" available="true">
-				<name>12</name>
-				<price>0501</price>
-				<oldprice>0501</oldprice>
-				<currencyId>0501</currencyId>
-				<categoryId>0501</categoryId>
-				<picture>0501</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 mini 64GB</name>
+				<price>60990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1700,15 +1751,16 @@
 				<param name="Артикул">0501</param>
 			</offer>
 			<offer id="0511" available="true">
-				<name>12</name>
-				<price>0511</price>
-				<oldprice>0511</oldprice>
-				<currencyId>0511</currencyId>
-				<categoryId>0511</categoryId>
-				<picture>0511</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 mini 64GB</name>
+				<price>60990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1733,15 +1785,16 @@
 				<param name="Артикул">0511</param>
 			</offer>
 			<offer id="0521" available="true">
-				<name>12</name>
-				<price>0521</price>
-				<oldprice>0521</oldprice>
-				<currencyId>0521</currencyId>
-				<categoryId>0521</categoryId>
-				<picture>0521</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 mini 64GB</name>
+				<price>60990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1766,15 +1819,16 @@
 				<param name="Артикул">0521</param>
 			</offer>
 			<offer id="0531" available="true">
-				<name>12</name>
-				<price>0531</price>
-				<oldprice>0531</oldprice>
-				<currencyId>0531</currencyId>
-				<categoryId>0531</categoryId>
-				<picture>0531</picture>
-				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 12 mini 64GB</name>
+				<price>60990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1799,15 +1853,16 @@
 				<param name="Артикул">0531</param>
 			</offer>
 			<offer id="0541" available="true">
-				<name>12</name>
-				<price>0541</price>
-				<oldprice>0541</oldprice>
-				<currencyId>0541</currencyId>
-				<categoryId>0541</categoryId>
-				<picture>0541</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 11 PRO MAX 512GB</name>
+				<price>103490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"
@@ -1833,15 +1888,17 @@
 				<param name="Артикул">0541</param>
 			</offer>
 			<offer id="0551" available="true">
-				<name>12</name>
-				<price>0551</price>
-				<oldprice>0551</oldprice>
-				<currencyId>0551</currencyId>
-				<categoryId>0551</categoryId>
-				<picture>0551</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 11 PRO MAX 512GB</name>
+				<price>103490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -1866,15 +1923,14 @@
 				<param name="Артикул">0551</param>
 			</offer>
 			<offer id="0561" available="true">
-				<name>12</name>
-				<price>0561</price>
-				<oldprice>0561</oldprice>
-				<currencyId>0561</currencyId>
-				<categoryId>0561</categoryId>
-				<picture>0561</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 11 PRO MAX 512GB</name>
+				<price>103490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -1899,15 +1955,17 @@
 				<param name="Артикул">0561</param>
 			</offer>
 			<offer id="0571" available="true">
-				<name>12</name>
-				<price>0571</price>
-				<oldprice>0571</oldprice>
-				<currencyId>0571</currencyId>
-				<categoryId>0571</categoryId>
-				<picture>0571</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 11 PRO MAX 512GB</name>
+				<price>103490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"
@@ -1933,15 +1991,16 @@
 				<param name="Артикул">0571</param>
 			</offer>
 			<offer id="0581" available="true">
-				<name>12</name>
-				<price>0581</price>
-				<oldprice>0581</oldprice>
-				<currencyId>0581</currencyId>
-				<categoryId>0581</categoryId>
-				<picture>0581</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 PRO MAX 256GB</name>
+				<price>95490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -1966,15 +2025,17 @@
 				<param name="Артикул">0581</param>
 			</offer>
 			<offer id="0591" available="true">
-				<name>12</name>
-				<price>0591</price>
-				<oldprice>0591</oldprice>
-				<currencyId>0591</currencyId>
-				<categoryId>0591</categoryId>
-				<picture>0591</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 PRO MAX 256GB</name>
+				<price>95490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -1999,15 +2060,14 @@
 				<param name="Артикул">0591</param>
 			</offer>
 			<offer id="0601" available="true">
-				<name>12</name>
-				<price>0601</price>
-				<oldprice>0601</oldprice>
-				<currencyId>0601</currencyId>
-				<categoryId>0601</categoryId>
-				<picture>0601</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 PRO MAX 256GB</name>
+				<price>95990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2032,15 +2092,17 @@
 				<param name="Артикул">0601</param>
 			</offer>
 			<offer id="0611" available="true">
-				<name>12</name>
-				<price>0611</price>
-				<oldprice>0611</oldprice>
-				<currencyId>0611</currencyId>
-				<categoryId>0611</categoryId>
-				<picture>0611</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 PRO MAX 256GB</name>
+				<price>95490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2065,15 +2127,16 @@
 				<param name="Артикул">0611</param>
 			</offer>
 			<offer id="0621" available="true">
-				<name>12</name>
-				<price>0621</price>
-				<oldprice>0621</oldprice>
-				<currencyId>0621</currencyId>
-				<categoryId>0621</categoryId>
-				<picture>0621</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 PRO MAX 64GB</name>
+				<price>80490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"
@@ -2099,15 +2162,17 @@
 				<param name="Артикул">0621</param>
 			</offer>
 			<offer id="0631" available="true">
-				<name>12</name>
-				<price>0631</price>
-				<oldprice>0631</oldprice>
-				<currencyId>0631</currencyId>
-				<categoryId>0631</categoryId>
-				<picture>0631</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 PRO MAX 64GB</name>
+				<price>80490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2132,15 +2197,14 @@
 				<param name="Артикул">0631</param>
 			</offer>
 			<offer id="0641" available="true">
-				<name>12</name>
-				<price>0641</price>
-				<oldprice>0641</oldprice>
-				<currencyId>0641</currencyId>
-				<categoryId>0641</categoryId>
-				<picture>0641</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 PRO MAX 64GB</name>
+				<price>80490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2165,15 +2229,17 @@
 				<param name="Артикул">0641</param>
 			</offer>
 			<offer id="0651" available="true">
-				<name>12</name>
-				<price>0651</price>
-				<oldprice>0651</oldprice>
-				<currencyId>0651</currencyId>
-				<categoryId>0651</categoryId>
-				<picture>0651</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO MAX 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 PRO MAX 64GB</name>
+				<price>80490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2198,15 +2264,16 @@
 				<param name="Артикул">0651</param>
 			</offer>
 			<offer id="0661" available="true">
-				<name>12</name>
-				<price>0661</price>
-				<oldprice>0661</oldprice>
-				<currencyId>0661</currencyId>
-				<categoryId>0661</categoryId>
-				<picture>0661</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 11 PRO 512GB</name>
+				<price>89990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2231,15 +2298,17 @@
 				<param name="Артикул">0661</param>
 			</offer>
 			<offer id="0671" available="true">
-				<name>12</name>
-				<price>0671</price>
-				<oldprice>0671</oldprice>
-				<currencyId>0671</currencyId>
-				<categoryId>0671</categoryId>
-				<picture>0671</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 11 PRO 512GB</name>
+				<price>89990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2264,15 +2333,14 @@
 				<param name="Артикул">0671</param>
 			</offer>
 			<offer id="0681" available="true">
-				<name>12</name>
-				<price>0681</price>
-				<oldprice>0681</oldprice>
-				<currencyId>0681</currencyId>
-				<categoryId>0681</categoryId>
-				<picture>0681</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 11 PRO 512GB</name>
+				<price>89990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2297,15 +2365,17 @@
 				<param name="Артикул">0681</param>
 			</offer>
 			<offer id="0691" available="true">
-				<name>12</name>
-				<price>0691</price>
-				<oldprice>0691</oldprice>
-				<currencyId>0691</currencyId>
-				<categoryId>0691</categoryId>
-				<picture>0691</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 512GB</h3>
-]]></description>
-				<param name="Встроенная память">512GB</param>
+				<name>iPhone 11 PRO 512GB</name>
+				<price>89990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2330,15 +2400,16 @@
 				<param name="Артикул">0691</param>
 			</offer>
 			<offer id="0701" available="true">
-				<name>12</name>
-				<price>0701</price>
-				<oldprice>0701</oldprice>
-				<currencyId>0701</currencyId>
-				<categoryId>0701</categoryId>
-				<picture>0701</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 PRO 256GB</name>
+				<price>85990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2363,15 +2434,17 @@
 				<param name="Артикул">0701</param>
 			</offer>
 			<offer id="0711" available="true">
-				<name>12</name>
-				<price>0711</price>
-				<oldprice>0711</oldprice>
-				<currencyId>0711</currencyId>
-				<categoryId>0711</categoryId>
-				<picture>0711</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 PRO 256GB</name>
+				<price>85990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2396,15 +2469,14 @@
 				<param name="Артикул">0711</param>
 			</offer>
 			<offer id="0721" available="true">
-				<name>12</name>
-				<price>0721</price>
-				<oldprice>0721</oldprice>
-				<currencyId>0721</currencyId>
-				<categoryId>0721</categoryId>
-				<picture>0721</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 PRO 256GB</name>
+				<price>85990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2429,15 +2501,17 @@
 				<param name="Артикул">0721</param>
 			</offer>
 			<offer id="0731" available="true">
-				<name>12</name>
-				<price>0731</price>
-				<oldprice>0731</oldprice>
-				<currencyId>0731</currencyId>
-				<categoryId>0731</categoryId>
-				<picture>0731</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 PRO 256GB</name>
+				<price>85990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2462,15 +2536,16 @@
 				<param name="Артикул">0731</param>
 			</offer>
 			<offer id="0741" available="true">
-				<name>12</name>
-				<price>0741</price>
-				<oldprice>0741</oldprice>
-				<currencyId>0741</currencyId>
-				<categoryId>0741</categoryId>
-				<picture>0741</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 PRO 64GB</name>
+				<price>73490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2495,15 +2570,17 @@
 				<param name="Артикул">0741</param>
 			</offer>
 			<offer id="0751" available="true">
-				<name>12</name>
-				<price>0751</price>
-				<oldprice>0751</oldprice>
-				<currencyId>0751</currencyId>
-				<categoryId>0751</categoryId>
-				<picture>0751</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 PRO 64GB</name>
+				<price>73490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2528,15 +2605,14 @@
 				<param name="Артикул">0751</param>
 			</offer>
 			<offer id="0761" available="true">
-				<name>12</name>
-				<price>0761</price>
-				<oldprice>0761</oldprice>
-				<currencyId>0761</currencyId>
-				<categoryId>0761</categoryId>
-				<picture>0761</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 PRO 64GB</name>
+				<price>73490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2561,15 +2637,17 @@
 				<param name="Артикул">0761</param>
 			</offer>
 			<offer id="0771" available="true">
-				<name>12</name>
-				<price>0771</price>
-				<oldprice>0771</oldprice>
-				<currencyId>0771</currencyId>
-				<categoryId>0771</categoryId>
-				<picture>0771</picture>
-				<description><![CDATA[<h3>iPhone 11 PRO 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 PRO 64GB</name>
+				<price>73490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2594,15 +2672,15 @@
 				<param name="Артикул">0771</param>
 			</offer>
 			<offer id="0781" available="true">
-				<name>12</name>
-				<price>0781</price>
-				<oldprice>0781</oldprice>
-				<currencyId>0781</currencyId>
-				<categoryId>0781</categoryId>
-				<picture>0781</picture>
-				<description><![CDATA[<h3>iPhone 11 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2627,15 +2705,15 @@
 				<param name="Артикул">0781</param>
 			</offer>
 			<offer id="0791" available="true">
-				<name>12</name>
-				<price>0791</price>
-				<oldprice>0791</oldprice>
-				<currencyId>0791</currencyId>
-				<categoryId>0791</categoryId>
-				<picture>0791</picture>
-				<description><![CDATA[<h3>iPhone 11 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2660,15 +2738,15 @@
 				<param name="Артикул">0791</param>
 			</offer>
 			<offer id="0801" available="true">
-				<name>12</name>
-				<price>0801</price>
-				<oldprice>0801</oldprice>
-				<currencyId>0801</currencyId>
-				<categoryId>0801</categoryId>
-				<picture>0801</picture>
-				<description><![CDATA[<h3>iPhone 11 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2693,15 +2771,15 @@
 				<param name="Артикул">0801</param>
 			</offer>
 			<offer id="0811" available="true">
-				<name>12</name>
-				<price>0811</price>
-				<oldprice>0811</oldprice>
-				<currencyId>0811</currencyId>
-				<categoryId>0811</categoryId>
-				<picture>0811</picture>
-				<description><![CDATA[<h3>iPhone 11 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2726,15 +2804,15 @@
 				<param name="Артикул">0811</param>
 			</offer>
 			<offer id="0821" available="true">
-				<name>12</name>
-				<price>0821</price>
-				<oldprice>0821</oldprice>
-				<currencyId>0821</currencyId>
-				<categoryId>0821</categoryId>
-				<picture>0821</picture>
-				<description><![CDATA[<h3>iPhone 11 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2759,15 +2837,15 @@
 				<param name="Артикул">0821</param>
 			</offer>
 			<offer id="0831" available="true">
-				<name>12</name>
-				<price>0831</price>
-				<oldprice>0831</oldprice>
-				<currencyId>0831</currencyId>
-				<categoryId>0831</categoryId>
-				<picture>0831</picture>
-				<description><![CDATA[<h3>iPhone 11 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone 11 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2792,15 +2870,15 @@
 				<param name="Артикул">0831</param>
 			</offer>
 			<offer id="0841" available="true">
-				<name>12</name>
-				<price>0841</price>
-				<oldprice>0841</oldprice>
-				<currencyId>0841</currencyId>
-				<categoryId>0841</categoryId>
-				<picture>0841</picture>
-				<description><![CDATA[<h3>iPhone 11 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 11 128GB</name>
+				<price>57490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2825,15 +2903,15 @@
 				<param name="Артикул">0841</param>
 			</offer>
 			<offer id="0851" available="true">
-				<name>12</name>
-				<price>0851</price>
-				<oldprice>0851</oldprice>
-				<currencyId>0851</currencyId>
-				<categoryId>0851</categoryId>
-				<picture>0851</picture>
-				<description><![CDATA[<h3>iPhone 11 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 11 128GB</name>
+				<price>57490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2858,15 +2936,15 @@
 				<param name="Артикул">0851</param>
 			</offer>
 			<offer id="0861" available="true">
-				<name>12</name>
-				<price>0861</price>
-				<oldprice>0861</oldprice>
-				<currencyId>0861</currencyId>
-				<categoryId>0861</categoryId>
-				<picture>0861</picture>
-				<description><![CDATA[<h3>iPhone 11 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 11 128GB</name>
+				<price>57490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2891,15 +2969,15 @@
 				<param name="Артикул">0861</param>
 			</offer>
 			<offer id="0871" available="true">
-				<name>12</name>
-				<price>0871</price>
-				<oldprice>0871</oldprice>
-				<currencyId>0871</currencyId>
-				<categoryId>0871</categoryId>
-				<picture>0871</picture>
-				<description><![CDATA[<h3>iPhone 11 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 11 128GB</name>
+				<price>57490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2924,15 +3002,15 @@
 				<param name="Артикул">0871</param>
 			</offer>
 			<offer id="0881" available="true">
-				<name>12</name>
-				<price>0881</price>
-				<oldprice>0881</oldprice>
-				<currencyId>0881</currencyId>
-				<categoryId>0881</categoryId>
-				<picture>0881</picture>
-				<description><![CDATA[<h3>iPhone 11 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 11 128GB</name>
+				<price>57490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2957,15 +3035,15 @@
 				<param name="Артикул">0881</param>
 			</offer>
 			<offer id="0891" available="true">
-				<name>12</name>
-				<price>0891</price>
-				<oldprice>0891</oldprice>
-				<currencyId>0891</currencyId>
-				<categoryId>0891</categoryId>
-				<picture>0891</picture>
-				<description><![CDATA[<h3>iPhone 11 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone 11 128GB</name>
+				<price>57490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2990,15 +3068,15 @@
 				<param name="Артикул">0891</param>
 			</offer>
 			<offer id="0901" available="true">
-				<name>12</name>
-				<price>0901</price>
-				<oldprice>0901</oldprice>
-				<currencyId>0901</currencyId>
-				<categoryId>0901</categoryId>
-				<picture>0901</picture>
-				<description><![CDATA[<h3>iPhone 11 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 64GB</name>
+				<price>51490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3023,15 +3101,15 @@
 				<param name="Артикул">0901</param>
 			</offer>
 			<offer id="0911" available="true">
-				<name>12</name>
-				<price>0911</price>
-				<oldprice>0911</oldprice>
-				<currencyId>0911</currencyId>
-				<categoryId>0911</categoryId>
-				<picture>0911</picture>
-				<description><![CDATA[<h3>iPhone 11 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 64GB</name>
+				<price>51490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3056,15 +3134,15 @@
 				<param name="Артикул">0911</param>
 			</offer>
 			<offer id="0921" available="true">
-				<name>12</name>
-				<price>0921</price>
-				<oldprice>0921</oldprice>
-				<currencyId>0921</currencyId>
-				<categoryId>0921</categoryId>
-				<picture>0921</picture>
-				<description><![CDATA[<h3>iPhone 11 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 64GB</name>
+				<price>51490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3089,15 +3167,15 @@
 				<param name="Артикул">0921</param>
 			</offer>
 			<offer id="0931" available="true">
-				<name>12</name>
-				<price>0931</price>
-				<oldprice>0931</oldprice>
-				<currencyId>0931</currencyId>
-				<categoryId>0931</categoryId>
-				<picture>0931</picture>
-				<description><![CDATA[<h3>iPhone 11 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 64GB</name>
+				<price>51990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3122,15 +3200,15 @@
 				<param name="Артикул">0931</param>
 			</offer>
 			<offer id="0941" available="true">
-				<name>12</name>
-				<price>0941</price>
-				<oldprice>0941</oldprice>
-				<currencyId>0941</currencyId>
-				<categoryId>0941</categoryId>
-				<picture>0941</picture>
-				<description><![CDATA[<h3>iPhone 11 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 64GB</name>
+				<price>51990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3155,15 +3233,15 @@
 				<param name="Артикул">0941</param>
 			</offer>
 			<offer id="0951" available="true">
-				<name>12</name>
-				<price>0951</price>
-				<oldprice>0951</oldprice>
-				<currencyId>0951</currencyId>
-				<categoryId>0951</categoryId>
-				<picture>0951</picture>
-				<description><![CDATA[<h3>iPhone 11 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone 11 64GB</name>
+				<price>51990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-1.png</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-4.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3188,15 +3266,17 @@
 				<param name="Артикул">0951</param>
 			</offer>
 			<offer id="0961" available="true">
-				<name>12</name>
-				<price>0961</price>
-				<oldprice>0961</oldprice>
-				<currencyId>0961</currencyId>
-				<categoryId>0961</categoryId>
-				<picture>0961</picture>
-				<description><![CDATA[<h3>iPhone SE 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone SE 256GB</name>
+				<price>41990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3221,15 +3301,17 @@
 				<param name="Артикул">0961</param>
 			</offer>
 			<offer id="0971" available="true">
-				<name>12</name>
-				<price>0971</price>
-				<oldprice>0971</oldprice>
-				<currencyId>0971</currencyId>
-				<categoryId>0971</categoryId>
-				<picture>0971</picture>
-				<description><![CDATA[<h3>iPhone SE 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone SE 256GB</name>
+				<price>41990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3254,15 +3336,17 @@
 				<param name="Артикул">0971</param>
 			</offer>
 			<offer id="0981" available="true">
-				<name>12</name>
-				<price>0981</price>
-				<oldprice>0981</oldprice>
-				<currencyId>0981</currencyId>
-				<categoryId>0981</categoryId>
-				<picture>0981</picture>
-				<description><![CDATA[<h3>iPhone SE 256GB</h3>
-]]></description>
-				<param name="Встроенная память">256GB</param>
+				<name>iPhone SE 256GB</name>
+				<price>41990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3287,15 +3371,17 @@
 				<param name="Артикул">0981</param>
 			</offer>
 			<offer id="0991" available="true">
-				<name>12</name>
-				<price>0991</price>
-				<oldprice>0991</oldprice>
-				<currencyId>0991</currencyId>
-				<categoryId>0991</categoryId>
-				<picture>0991</picture>
-				<description><![CDATA[<h3>iPhone SE 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone SE 128GB</name>
+				<price>38990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3320,15 +3406,17 @@
 				<param name="Артикул">0991</param>
 			</offer>
 			<offer id="1001" available="true">
-				<name>12</name>
-				<price>1001</price>
-				<oldprice>1001</oldprice>
-				<currencyId>1001</currencyId>
-				<categoryId>1001</categoryId>
-				<picture>1001</picture>
-				<description><![CDATA[<h3>iPhone SE 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone SE 128GB</name>
+				<price>38990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3353,15 +3441,17 @@
 				<param name="Артикул">1001</param>
 			</offer>
 			<offer id="1011" available="true">
-				<name>12</name>
-				<price>1011</price>
-				<oldprice>1011</oldprice>
-				<currencyId>1011</currencyId>
-				<categoryId>1011</categoryId>
-				<picture>1011</picture>
-				<description><![CDATA[<h3>iPhone SE 128GB</h3>
-]]></description>
-				<param name="Встроенная память">128GB</param>
+				<name>iPhone SE 128GB</name>
+				<price>39490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3386,15 +3476,17 @@
 				<param name="Артикул">1011</param>
 			</offer>
 			<offer id="1021" available="true">
-				<name>12</name>
-				<price>1021</price>
-				<oldprice>1021</oldprice>
-				<currencyId>1021</currencyId>
-				<categoryId>1021</categoryId>
-				<picture>1021</picture>
-				<description><![CDATA[<h3>iPhone SE 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone SE 64GB</name>
+				<price>33990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3419,15 +3511,17 @@
 				<param name="Артикул">1021</param>
 			</offer>
 			<offer id="1031" available="true">
-				<name>12</name>
-				<price>1031</price>
-				<oldprice>1031</oldprice>
-				<currencyId>1031</currencyId>
-				<categoryId>1031</categoryId>
-				<picture>1031</picture>
-				<description><![CDATA[<h3>iPhone SE 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone SE 64GB</name>
+				<price>33990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3452,15 +3546,17 @@
 				<param name="Артикул">1031</param>
 			</offer>
 			<offer id="1041" available="true">
-				<name>12</name>
-				<price>1041</price>
-				<oldprice>1041</oldprice>
-				<currencyId>1041</currencyId>
-				<categoryId>1041</categoryId>
-				<picture>1041</picture>
-				<description><![CDATA[<h3>iPhone SE 64GB</h3>
-]]></description>
-				<param name="Встроенная память">64GB</param>
+				<name>iPhone SE 64GB</name>
+				<price>33990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-5.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-6.jpg</picture>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
