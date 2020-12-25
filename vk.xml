@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2020-11-25 12:00">
+<yml_catalog date="2020-11-25 12:05">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
@@ -29,6 +29,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -65,6 +67,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -101,6 +105,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -137,6 +143,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -173,6 +181,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -209,6 +219,9 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый
+</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -245,6 +258,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -281,6 +296,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебро</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -317,6 +334,9 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий
+</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -353,6 +373,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -389,6 +411,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золото</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -425,6 +449,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO MAX 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -461,6 +487,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -497,6 +525,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -533,6 +563,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -569,6 +601,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -605,6 +639,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -641,6 +677,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -677,6 +715,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -713,6 +753,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -749,6 +791,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -785,6 +829,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -821,6 +867,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -857,6 +905,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 PRO 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -893,6 +943,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -929,6 +981,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -965,6 +1019,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1001,6 +1057,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1037,6 +1095,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1073,6 +1133,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1109,6 +1171,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1145,6 +1209,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1181,6 +1247,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1217,6 +1285,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1253,6 +1323,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1289,6 +1361,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1325,6 +1399,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1361,6 +1437,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1397,6 +1475,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -1433,6 +1513,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1469,6 +1551,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1505,6 +1589,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1541,6 +1627,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1577,6 +1665,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1613,6 +1703,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1649,6 +1741,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1685,6 +1779,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1721,6 +1817,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1757,6 +1855,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1793,6 +1893,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1829,6 +1931,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1865,6 +1969,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1901,6 +2007,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1937,6 +2045,8 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 12 mini 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">5,4"</param>
@@ -1973,6 +2083,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса"> Midnight Green/Тёмно-зелёный</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"
@@ -2011,6 +2123,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Space Gray/"Серый Космос"</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2045,6 +2159,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2082,6 +2198,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"
@@ -2119,6 +2237,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса"> Midnight Green/Тёмно-зелёный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2156,6 +2276,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Space Gray/"Серый Космос"</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2190,6 +2312,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2227,6 +2351,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2263,6 +2389,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса"> Midnight Green/Тёмно-зелёный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"
@@ -2301,6 +2429,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Space Gray/"Серый Космос"</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2335,6 +2465,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2372,6 +2504,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO MAX 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,5"</param>
@@ -2408,6 +2542,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса"> Midnight Green/Тёмно-зелёный</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2445,6 +2581,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Space Gray/"Серый Космос"</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2479,6 +2617,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2516,6 +2656,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 512GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">512GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2552,6 +2694,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса"> Midnight Green/Тёмно-зелёный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2589,6 +2733,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Space Gray/"Серый Космос"</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2623,6 +2769,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2660,6 +2808,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2696,6 +2846,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса"> Midnight Green/Тёмно-зелёный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2733,6 +2885,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Space Gray/"Серый Космос"</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2767,6 +2921,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-3.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2804,6 +2960,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-Silver-5.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 PRO 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">5,8"</param>
@@ -2839,6 +2997,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2874,6 +3034,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2909,6 +3071,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2944,6 +3108,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -2979,6 +3145,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3014,6 +3182,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Yellow/Жёлтый</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3049,6 +3219,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3084,6 +3256,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3119,6 +3293,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3154,6 +3330,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3189,6 +3367,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3224,6 +3404,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Yellow/Жёлтый</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3259,6 +3441,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3294,6 +3478,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3329,6 +3515,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3364,6 +3552,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3399,6 +3589,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3434,6 +3626,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-4.jpg</picture>
 				<description><![CDATA[<h3>iPhone 11 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Yellow/Жёлтый</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2019</param>
 				<param name="Диагональ дисплея">6,1"</param>
@@ -3471,6 +3665,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3508,6 +3704,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3545,6 +3743,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 256GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">256GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3582,6 +3782,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3619,6 +3821,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3656,6 +3860,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 128GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">128GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3693,6 +3899,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3730,6 +3938,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
@@ -3767,6 +3977,8 @@
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-6.jpg</picture>
 				<description><![CDATA[<h3>iPhone SE 64GB</h3>
 ]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроенная память">64GB</param>
 				<param name="Процессор">A13 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">4,7"</param>
